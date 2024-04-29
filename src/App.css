@@ -1,0 +1,9 @@
+.app {
+    background-image: url("../images/pexels-perfect-lens-12162236.jpg");
+    min-height: 100vh; 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
