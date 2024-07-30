@@ -75,10 +75,10 @@ function App() {
 
         isLoading ?
           (<div>
-            <h1 >Is Loading ...</h1>
+            <h1 >It Is Loading ...</h1>
 
             {
-              showMessage && <p>Please, give acces to your location</p>
+              showMessage && <p>Would you please, give acces to your location</p>
             }
 
             
